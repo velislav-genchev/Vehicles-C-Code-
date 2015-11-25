@@ -1,0 +1,8 @@
+C:\Users\Velislav\documents\visual studio 2015\Projects\Vehicles\VehiclesApplication\bin\Debug\VehiclesApplication.exe.config
+C:\Users\Velislav\documents\visual studio 2015\Projects\Vehicles\VehiclesApplication\bin\Debug\VehiclesApplication.exe
+C:\Users\Velislav\documents\visual studio 2015\Projects\Vehicles\VehiclesApplication\bin\Debug\VehiclesApplication.pdb
+C:\Users\Velislav\documents\visual studio 2015\Projects\Vehicles\VehiclesApplication\bin\Debug\VechiclesLibrary.dll
+C:\Users\Velislav\documents\visual studio 2015\Projects\Vehicles\VehiclesApplication\bin\Debug\VechiclesLibrary.pdb
+C:\Users\Velislav\documents\visual studio 2015\Projects\Vehicles\VehiclesApplication\obj\Debug\VehiclesApplication.csprojResolveAssemblyReference.cache
+C:\Users\Velislav\documents\visual studio 2015\Projects\Vehicles\VehiclesApplication\obj\Debug\VehiclesApplication.exe
+C:\Users\Velislav\documents\visual studio 2015\Projects\Vehicles\VehiclesApplication\obj\Debug\VehiclesApplication.pdb
